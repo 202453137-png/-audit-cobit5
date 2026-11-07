@@ -1,0 +1,182 @@
+[
+  {
+    "no": 1,
+    "domain": "EDM",
+    "kode": "EDM01",
+    "pertanyaan": "Apakah manajemen melakukan evaluasi berkala terhadap proses pencatatan penjualan dan persediaan barang?"
+  },
+  {
+    "no": 2,
+    "domain": "EDM",
+    "kode": "EDM01",
+    "pertanyaan": "Apakah peran, tanggung jawab, dan kewenangan pengambilan keputusan terkait pengelolaan data penjualan dan persediaan barang telah ditetapkan secara tertulis?"
+  },
+  {
+    "no": 3,
+    "domain": "EDM",
+    "kode": "EDM02",
+    "pertanyaan": "Apakah manajemen mengevaluasi manfaat pengelolaan informasi penjualan dan persediaan barang terhadap tujuan usaha perusahaan, misalnya ketepatan laporan dan efisiensi proses?"
+  },
+  {
+    "no": 4,
+    "domain": "EDM",
+    "kode": "EDM03",
+    "pertanyaan": "Apakah manajemen telah menetapkan batas risiko yang dapat diterima terkait kesalahan, kehilangan, atau perubahan tanpa otorisasi pada data penjualan dan persediaan barang?"
+  },
+  {
+    "no": 5,
+    "domain": "EDM",
+    "kode": "EDM04",
+    "pertanyaan": "Apakah manajemen menyediakan sumber daya yang memadai (pegawai, anggaran, dan sarana pendukung) untuk pengelolaan data penjualan dan persediaan barang?"
+  },
+  {
+    "no": 6,
+    "domain": "EDM",
+    "kode": "EDM05",
+    "pertanyaan": "Apakah laporan penjualan dan persediaan barang disampaikan secara berkala kepada Direksi dan pihak pengawas sesuai ketentuan perusahaan?"
+  },
+  {
+    "no": 7,
+    "domain": "APO",
+    "kode": "APO01",
+    "pertanyaan": "Apakah perusahaan memiliki prosedur tertulis mengenai pengelolaan data penjualan dan persediaan?"
+  },
+  {
+    "no": 8,
+    "domain": "APO",
+    "kode": "APO01",
+    "pertanyaan": "Apakah kebijakan dan prosedur pengelolaan data penjualan dan persediaan telah disosialisasikan kepada pegawai yang berkepentingan?"
+  },
+  {
+    "no": 9,
+    "domain": "APO",
+    "kode": "APO02",
+    "pertanyaan": "Apakah kebutuhan pengelolaan informasi penjualan dan persediaan barang dimuat dalam rencana bisnis atau rencana kerja dan anggaran perusahaan?"
+  },
+  {
+    "no": 10,
+    "domain": "APO",
+    "kode": "APO07",
+    "pertanyaan": "Apakah pegawai yang mengelola data penjualan dan persediaan barang memperoleh pelatihan atau pembekalan yang sesuai dengan tugasnya?"
+  },
+  {
+    "no": 11,
+    "domain": "APO",
+    "kode": "APO12",
+    "pertanyaan": "Apakah perusahaan telah mengidentifikasi dan mendokumentasikan risiko pada proses penjualan dan persediaan barang, seperti selisih stok atau kesalahan pencatatan?"
+  },
+  {
+    "no": 12,
+    "domain": "APO",
+    "kode": "APO13",
+    "pertanyaan": "Apakah terdapat kebijakan tertulis mengenai keamanan informasi yang mencakup data penjualan dan persediaan barang?"
+  },
+  {
+    "no": 13,
+    "domain": "BAI",
+    "kode": "BAI02",
+    "pertanyaan": "Apakah kebutuhan pengguna (bagian penjualan, gudang, dan keuangan) terhadap pencatatan dan pelaporan penjualan dan persediaan diidentifikasi dan didokumentasikan?"
+  },
+  {
+    "no": 14,
+    "domain": "BAI",
+    "kode": "BAI04",
+    "pertanyaan": "Apakah perusahaan memeriksa kecukupan kapasitas dan ketersediaan sarana pencatatan dibandingkan dengan jumlah transaksi penjualan dan persediaan?"
+  },
+  {
+    "no": 15,
+    "domain": "BAI",
+    "kode": "BAI06",
+    "pertanyaan": "Apakah setiap perubahan prosedur atau sarana pencatatan penjualan dan persediaan diajukan dan disetujui secara tertulis oleh pihak berwenang sebelum dilaksanakan?"
+  },
+  {
+    "no": 16,
+    "domain": "BAI",
+    "kode": "BAI07",
+    "pertanyaan": "Apakah perubahan sistem pencatatan penjualan diuji sebelum diterapkan dan hasil pengujiannya didokumentasikan?"
+  },
+  {
+    "no": 17,
+    "domain": "BAI",
+    "kode": "BAI08",
+    "pertanyaan": "Apakah tersedia panduan atau dokumentasi kerja yang dapat diakses pegawai dalam menjalankan pencatatan penjualan dan persediaan barang?"
+  },
+  {
+    "no": 18,
+    "domain": "BAI",
+    "kode": "BAI09",
+    "pertanyaan": "Apakah perusahaan memiliki daftar aset pendukung pengelolaan data penjualan dan persediaan yang digunakan, beserta penanggung jawabnya, dan memperbaruinya secara berkala?"
+  },
+  {
+    "no": 19,
+    "domain": "DSS",
+    "kode": "DSS01",
+    "pertanyaan": "Apakah kegiatan operasional harian pencatatan penjualan, penerimaan barang, dan pengeluaran barang dilaksanakan sesuai prosedur yang berlaku?"
+  },
+  {
+    "no": 20,
+    "domain": "DSS",
+    "kode": "DSS02",
+    "pertanyaan": "Apakah terdapat prosedur penanganan apabila sistem pencatatan transaksi mengalami gangguan?"
+  },
+  {
+    "no": 21,
+    "domain": "DSS",
+    "kode": "DSS03",
+    "pertanyaan": "Apakah penyebab gangguan atau kesalahan pencatatan yang terjadi berulang dianalisis dan ditindaklanjuti agar tidak terulang?"
+  },
+  {
+    "no": 22,
+    "domain": "DSS",
+    "kode": "DSS04",
+    "pertanyaan": "Apakah terdapat pencadangan data penjualan dan persediaan barang, baik digital maupun dokumen fisik, beserta prosedur pemulihannya?"
+  },
+  {
+    "no": 23,
+    "domain": "DSS",
+    "kode": "DSS05",
+    "pertanyaan": "Apakah akses terhadap data dan catatan penjualan dan persediaan barang dibatasi sesuai kewenangan masing-masing pegawai?"
+  },
+  {
+    "no": 24,
+    "domain": "DSS",
+    "kode": "DSS06",
+    "pertanyaan": "Apakah terdapat pemisahan tugas antara pegawai yang melakukan penjualan, menyimpan barang, dan mencatat transaksi?"
+  },
+  {
+    "no": 25,
+    "domain": "MEA",
+    "kode": "MEA01",
+    "pertanyaan": "Apakah perusahaan menetapkan indikator kinerja proses penjualan dan persediaan barang, misalnya ketepatan pencatatan dan tingkat selisih stok, serta memantaunya secara berkala?"
+  },
+  {
+    "no": 26,
+    "domain": "MEA",
+    "kode": "MEA01",
+    "pertanyaan": "Apakah capaian penjualan dan pengelolaan persediaan dibandingkan dengan target perusahaan, dan penyimpangannya dianalisis serta dilaporkan kepada manajemen?"
+  },
+  {
+    "no": 27,
+    "domain": "MEA",
+    "kode": "MEA02",
+    "pertanyaan": "Apakah perusahaan melakukan pemeriksaan berkala terhadap kesesuaian data persediaan dengan stok fisik?"
+  },
+  {
+    "no": 28,
+    "domain": "MEA",
+    "kode": "MEA02",
+    "pertanyaan": "Apakah terdapat satuan pengawas intern atau fungsi sejenis yang menilai pengendalian pada proses penjualan dan persediaan barang?"
+  },
+  {
+    "no": 29,
+    "domain": "MEA",
+    "kode": "MEA02",
+    "pertanyaan": "Apakah kelemahan pengendalian yang ditemukan dari pemeriksaan internal maupun eksternal ditindaklanjuti dan statusnya dipantau?"
+  },
+  {
+    "no": 30,
+    "domain": "MEA",
+    "kode": "MEA03",
+    "pertanyaan": "Apakah perusahaan memantau kepatuhan proses penjualan dan persediaan barang terhadap ketentuan eksternal, misalnya ketentuan perpajakan, peraturan daerah, atau perjanjian dengan pihak ketiga?"
+  }
+]
